@@ -11,6 +11,7 @@
 		CED4AE4229919DEF001B2633 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED4AE4129919DEF001B2633 /* ContentView.swift */; };
 		CED4AE4429919DF1001B2633 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED4AE4329919DF1001B2633 /* Assets.xcassets */; };
 		CED4AE4729919DF1001B2633 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CED4AE4629919DF1001B2633 /* Preview Assets.xcassets */; };
+		CED4AE4E2991E4BE001B2633 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED4AE4D2991E4BD001B2633 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CED4AE4129919DEF001B2633 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CED4AE4329919DF1001B2633 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CED4AE4629919DF1001B2633 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CED4AE4D2991E4BD001B2633 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				CED4AE3F29919DEF001B2633 /* API_hackwichApp.swift */,
 				CED4AE4129919DEF001B2633 /* ContentView.swift */,
 				CED4AE4329919DF1001B2633 /* Assets.xcassets */,
+				CED4AE4D2991E4BD001B2633 /* SwiftyJSON.swift */,
 				CED4AE4529919DF1001B2633 /* Preview Content */,
 			);
 			path = "API hackwich";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CED4AE4E2991E4BE001B2633 /* SwiftyJSON.swift in Sources */,
 				CED4AE4229919DEF001B2633 /* ContentView.swift in Sources */,
 				CED4AE4029919DEF001B2633 /* API_hackwichApp.swift in Sources */,
 			);
